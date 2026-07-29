@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    '52heiliao88@gmail.com'
 ];
 
 var urls=[
@@ -51,13 +51,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://52heiliao.pages.dev',
+	'https://52heiliao.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://52heiliao.net/',
 	JumpPage,
-	'https://52crdh.com',
+	'https://52heiliao.com',
 	
 ];
 var notices = [
